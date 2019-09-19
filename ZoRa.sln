@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{400A8D56-8E97-4FC0-AC37-5AE5DCA8E930}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZoRa", "ZoRa\ZoRa.vcxproj", "{85FA85D1-4CE2-4C73-B7E6-583BF1BBB248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85FA85D1-4CE2-4C73-B7E6-583BF1BBB248}.Debug|x64.ActiveCfg = Debug|x64
+		{85FA85D1-4CE2-4C73-B7E6-583BF1BBB248}.Debug|x64.Build.0 = Debug|x64
+		{85FA85D1-4CE2-4C73-B7E6-583BF1BBB248}.Release|x64.ActiveCfg = Release|x64
+		{85FA85D1-4CE2-4C73-B7E6-583BF1BBB248}.Release|x64.Build.0 = Release|x64
+		{400A8D56-8E97-4FC0-AC37-5AE5DCA8E930}.Debug|x64.ActiveCfg = Debug|x64
+		{400A8D56-8E97-4FC0-AC37-5AE5DCA8E930}.Debug|x64.Build.0 = Debug|x64
+		{400A8D56-8E97-4FC0-AC37-5AE5DCA8E930}.Release|x64.ActiveCfg = Release|x64
+		{400A8D56-8E97-4FC0-AC37-5AE5DCA8E930}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DC05E20-6D23-432C-90F7-3FADCF840B04}
+	EndGlobalSection
+EndGlobal
